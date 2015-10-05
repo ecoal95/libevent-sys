@@ -1,0 +1,7 @@
+[package]
+name = "libevent-sys"
+version = "0.1.0"
+authors = ["Emilio Cobos Álvarez <ecoal95@gmail.com>"]
+
+[dependencies]
+libc = "*"
